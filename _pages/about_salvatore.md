@@ -1,22 +1,3 @@
----
-layout: about
-title: about
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
-profile:
-  align: right
-  image: profile_pic.jpeg
-  image_circular: true # crops the image to make it circular
-  more_info: 
-    <p>Via Roma, 29</p>
-    <p>Aversa, Italy</p>
-
-news: false # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
----
-
 I have been mainly involved in software design and developing with different programming language(Java for Enterprise Web Applications, Python for Big Data, Data Analysis and Web Applications, Dart and Flutter Framework). I have a PhD in Industrial and Information Engineering, with a thesis on Parallel compiler techniques for multi-Cloud and Big Data platforms. I have been developing primitives for a source-to-source compiler based on Python skeleton, manipulating syntactic trees, to facilitate the use of big data platforms and the implementation of analytics in the cloud.
 
 So I got closer to the world of compilers and the big data world, but in my free time, I'm devoting myself to studying new programming languages ​​(I just started studying Go), developing mobile applications, studying neural networks, and applying to Natural Language Processing.
