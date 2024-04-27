@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - saldang
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - esseks/monicelli
+  - vinta/awesome-python
+  - trimstray/the-book-of-secret-knowledge
+  - binhnguyennus/awesome-scalability
+  - awesome-selfhosted/awesome-selfhosted
+  - immich-app/immich
+
