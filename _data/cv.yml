@@ -14,84 +14,73 @@
     - title: PhD
       institution: University of Campania "Luigi Vanvitelli", Caserta, Italy
       year: 2019
-      description:
+      description: Parallelizing compilers techniques for multi cloud and big data platforms.
         - 
     - title: Master's Degree
       institution: Seconda Università degli Studi di Napoli, Caserta, Italy
       year: 2016
-      description:
-        - Thesis: "Natural Languge Techniques applied to software engineering: Automatic production of UML diagrams from requirements analysis."
+      description: "Natural Languge Techniques applied to software engineering: Automatic production of UML diagrams from requirements analysis."
         
     - title: Bachelor's Degree
       institution: Seconda Università degli Studi di Napoli, Caserta, Italy
       year: 2013
-      description:
-        - Thesis: "Energy oriented Denial of Service on mobile devices."
+      description: Energy oriented Denial of Service on mobile devices.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: University of Campania "Luigi Vanvitelli", Caserta, Italy
+      year: 2020-now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - The research activity involves the analysis, definition, and application of innovative Machine and Deep Learning methods and techniques, as well as Pattern-based and automatic code transformation techniques, to support and automate the design, componentization, deployment, and dynamic and adaptive management of distributed and high-performance software systems on the Cloud-Edge Computing continuum
+    - title: Research Scientist
+      institution: C.I.N.I. National Interuniversity Consortium for Informatics, Italy
+      year: 2016-now
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Machine Learning and Natural Language Processing applied to highly specialized domains (Named Entity Recognition, Relation Extraction, Entity Linking, NLP Model-as-Service, Model Training as-Service). Proof-of-Concept production of distributed microservices for execution and delivery of the developed functionalities.
+        - DevOps methodologies and tools for the development, deployment, and management of distributed software systems on cloud native platforms.
+    - title: Professional Training
+      institution: BCSoft, Naples, Italy
+      year: 2018-2022
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
+        - Openshift Developer (Kubernetes, Openshift Architecture, Minishift), Boomi Integration Platform, Docker (docker, docker-compose, docker swarm), Business Process Management, ADMINISTRATIVE ESSENTIALS FOR NEW ADMINS IN LIGHTNING EXPERIENCE (ADX-201), Academy DevOps (Cloud Computing, Distributed Architectures, Microservices Architectures, Docker, Kubernetes, Openshift, Helm, Operator, ELK Stack), Google Cloud Platform (Digital Transformation, Distributed Architectures, Docker, Kubernetes, Helm, ELK Stack, Terraform), Kubernetes, Openshift Developer, MuleSoft, Splunk Enterprise
+    - title: CoFounder
+      institution: Geekers, Aversa, Italy
+      year: 2018-2024
+      description:
+        - Multi-platform Application Development (Flutter, Dart, Firebase, Supabase, AWS Amplify, Appwrite), Microservices Architectures (Kubernetes, Docker, Helm, Terraform, Pulumi, Angular, Flutter Web, Flask, FastAPI, Django, Postgres, GraphQL, GoLang), Professional Training (Flutter, Dart, Kubernetes, Docker, Helm, Terraform, Openshift)
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Cloud Computing
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Agile methodologies
+        - DevOps
+        - Microservices
+        - Pattern-based software design
+    - title: High Performance Computing
       items:
-        - Description 1.
-        - Description 2.
-
+        - Parallel and distributed computing
+        - High-performance computing
+        - Cloud-Edge Computing continuum
+        - Quantum Computing
+    - title: Machine Learning
+      items:
+        - Machine Learning
+        - Deep Learning
+        - Natural Language Processing
+        - Named Entity Recognition
+        - Relation Extraction
+        - Entity Linking
+        - NLP Model-as-Service
+        - Model Training as-Service
+    
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Reading, Traveling, Fitness, Movies, TV Series, Motorcycling, 
+    - <u>Music:</u> Rock, Punk, Metal, Pop
+    - <u>Favorite Motorcycles:</u> Ducati
+
+
