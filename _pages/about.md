@@ -7,7 +7,7 @@ subtitle: "Software Engineer, PhD in Industrial and Information Engineering"
 profile:
   align: center
   image: profile_pic.jpeg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: <p> Engineering Dept. </p>
     <p> University of Campania </p>
     <p> Aversa, Italy </p>
